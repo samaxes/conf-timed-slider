@@ -20,10 +20,10 @@ Done!
 
 ## Conference TV URLs
 
-* PTH track: [https://bit.ly/pth2023-pth](https://samaxes.github.io/jnation-timed-slider/tvs/pth/)
-* Emergn track: [https://bit.ly/pth2023-emergn](https://samaxes.github.io/jnation-timed-slider/tvs/emergn/)
-* Intellias track: [https://bit.ly/pth2023-intellias](https://samaxes.github.io/jnation-timed-slider/tvs/intellias/)
-* ISS track: [https://bit.ly/pth2023-iss](https://samaxes.github.io/jnation-timed-slider/tvs/iss/)
-* Five9 track: [https://bit.ly/pth2023-five9](https://samaxes.github.io/jnation-timed-slider/tvs/five9/)
-* Workshop 1 track: [https://bit.ly/pth2023-w1](https://samaxes.github.io/jnation-timed-slider/tvs/w1/)
-* Workshop 2 track: [https://bit.ly/pth2023-w2](https://samaxes.github.io/jnation-timed-slider/tvs/w2/)
+* PTH track: [https://bit.ly/pth2024-pth](https://samaxes.github.io/conf-timed-slider/tvs/pth/)
+* Emergn track: [https://bit.ly/pth2024-emergn](https://samaxes.github.io/conf-timed-slider/tvs/emergn/)
+* Five9 track: [https://bit.ly/pth2024-five9](https://samaxes.github.io/conf-timed-slider/tvs/five9/)
+* Zencoder track: [https://bit.ly/pth2024-zencoder](https://samaxes.github.io/conf-timed-slider/tvs/zencoder/)
+* Santander track: [https://bit.ly/pth2024-santander](https://samaxes.github.io/conf-timed-slider/tvs/santander/)
+* Workshop 1 track: [https://bit.ly/pth2024-w1](https://samaxes.github.io/conf-timed-slider/tvs/w1/)
+* Workshop 2 track: [https://bit.ly/pth2024-w2](https://samaxes.github.io/conf-timed-slider/tvs/w2/)
