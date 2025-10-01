@@ -1,21 +1,21 @@
 {
-  "name": "@jnation/timed-slider",
-  "author": "Samuel Santos <ssantos@present-technologies.com>",
-  "version": "1.0.0-2022",
-  "description": "TV sliders for JNation conference",
-  "license": "MIT",
+  "name": "conf-timed-slider",
+  "version": "1.0.1+2025",
+  "description": "TV timed sliders for conferences",
   "keywords": [
-    "jnation",
+    "conference",
     "timed",
     "framed",
     "slider"
   ],
+  "bugs": {
+    "url": "https://github.com/samaxes/conf-timed-slider/issues"
+  },
+  "license": "MIT",
+  "author": "Samuel Santos <samaxes@gmail.com> (https://samaxes.com/)",
   "repository": {
     "type": "git",
-    "url": "http://git.cadsh.com/jnation/timed-slider"
-  },
-  "bugs": {
-    "url": "http://git.cadsh.com/jnation/timed-slider/issues"
+    "url": "https://github.com/samaxes/conf-timed-slider.git"
   },
   "scripts": {
     "build": "rollup -c",
