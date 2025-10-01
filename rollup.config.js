@@ -14,7 +14,7 @@ export default [
     input: 'src/timed-slider.js',
     output: {
       file: 'docs/scripts/timed-slider.js',
-      name: 'JNationTimedSlider',
+      name: 'ConfTimedSlider',
       format: 'iife',
       sourcemap: production
     },
@@ -35,7 +35,7 @@ export default [
     input: 'src/framed-slider.js',
     output: {
       file: 'docs/scripts/framed-slider.js',
-      name: 'JNationFramedSlider',
+      name: 'ConfFramedSlider',
       format: 'iife',
       sourcemap: production
     },
