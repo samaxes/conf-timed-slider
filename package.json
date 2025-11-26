@@ -33,6 +33,6 @@
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-node-resolve": "^5.0.0",
     "rollup-plugin-terser": "^5.0.0",
-    "serve": "^13.0.2"
+    "serve": "^14.2.5"
   }
 }
