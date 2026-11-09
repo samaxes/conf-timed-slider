@@ -21,17 +21,29 @@
     <link rel="stylesheet" href="../../css/style.css">
   </head>
 
-  <body>
-    <main></main>
+  <body>  
+    <iframe allowfullscreen></iframe>
     <footer>
       <i class="fas fa-wifi"></i> PTH!2026
     </footer>
 
-    <script src='../../scripts/timed-slider.js'></script>
+    <script src='../../scripts/framed-slider.js'></script>
     <script>
-      ConfTimedSlider([
-        { time: '00:00', image: 'archive-hall-01.png' }
-      ], 60000); // 1 minute timeout
+      ConfFramedSlider([
+        {
+          source: 'jobs-arquivo.html',
+          timeout: 30 * 1000
+        }, {
+          source: 'survey-arquivo.html',
+          timeout: 30 * 1000
+        }, {
+          source: 'welcome-venue.html',
+          timeout: 60 * 1000
+        }, {
+          source: 'last-10-years.html',
+          timeout: 119 * 1000
+        }
+      ]);
     </script>
   </body>
 </html>

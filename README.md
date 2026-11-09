@@ -28,4 +28,4 @@ Done!
 * DKV Workshop track I: [https://bit.ly/pth2026-w1](https://samaxes.github.io/conf-timed-slider/tvs/w1/)
 * DKV Workshop track II: [https://bit.ly/pth2026-w2](https://samaxes.github.io/conf-timed-slider/tvs/w2/)
 * Community track: [https://bit.ly/pth2026-community](https://samaxes.github.io/conf-timed-slider/tvs/community/)
-* Archive Hall: [https://bit.ly/pth2026-media](https://samaxes.github.io/conf-timed-slider/tvs/media/)
+* PTH Media: [https://bit.ly/pth2026-media](https://samaxes.github.io/conf-timed-slider/tvs/media/)
